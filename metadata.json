@@ -1,0 +1,6 @@
+{
+  "name": "JRD Premium Barber",
+  "description": "Aplicación premium de gestión de turnos, barberos, galería, contacto e inventario con importación/exportación de Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
